@@ -12,6 +12,7 @@ FNF Links: **[itch.io page](https://ninja-muffin24.itch.io/funkin) ⋅ [Newgroun
 
 ### Special Thanks
 
+- [Mochi] - compiling a mac version
 - [You] - being cool
 
 ### Friday Night Funkin'
